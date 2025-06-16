@@ -1,0 +1,23 @@
+{
+  "name": "midword-reverse-engineering",
+  "version": "1.0.0",
+  "description": "Reverse engineering Midword.com online game",
+  "homepage": "https://github.com/EvgeniiKlepilin/midword-reverse-engineering#readme",
+  "bugs": {
+    "url": "https://github.com/EvgeniiKlepilin/midword-reverse-engineering/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniiKlepilin/midword-reverse-engineering.git"
+  },
+  "license": "ISC",
+  "author": "Evgenii Klepilin",
+  "type": "commonjs",
+  "main": "midword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
+}
